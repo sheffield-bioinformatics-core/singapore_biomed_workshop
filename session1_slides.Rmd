@@ -483,4 +483,9 @@ Computer doesn’t recognize it!
     + MARCH1 (Membrane-Associated Ring Finger (C3HC4) 1, E3 Ubiquitin Protein Ligase) → ‘1-Mar’
 
 
+## What can we do about it?
 
+- R can be used for various data cleaning tasks
+- An alternative is the OpenRefine tool
+  + uses an Excel-like interface
+  + all operations are recorded and reversible
