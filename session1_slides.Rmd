@@ -1,6 +1,6 @@
 ---
 title: "Biomedical Data Analysis Workshop - October/November 2021"
-author: "Mark Dunning"
+author: "Mark Dunning - The University of Sheffield"
 output:
   slidy_presentation: default
   ioslides_presentation: default
