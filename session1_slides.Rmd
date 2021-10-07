@@ -13,14 +13,6 @@ knitr::opts_chunk$set(echo = FALSE)
  
 # Course Introduction and Motivation
 
-## (Virtual) welcome to Sheffield
-
-![](http://www.welcometosheffield.co.uk/content/templates/images/9659/Image.jpg?rnd=0.9680026820476794)
-
-[http://www.welcometosheffield.co.uk/visit](http://www.welcometosheffield.co.uk/visit)
-
-
-
 ## Course Structure
 
 - Week 1; Data management and spreadsheets
@@ -49,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Motivation
 <img src="images/job-trends.png"style="width: 100%; display: block; margin-left: auto; margin-right: auto;"/>
 
-## Notable uses
+## Some notable uses of R
 
 - [Facebook](http://blog.revolutionanalytics.com/2010/12/analysis-of-facebook-status-updates.html),
 - [google](http://blog.revolutionanalytics.com/2009/05/google-using-r-to-analyze-effectiveness-of-tv-ads.html),
@@ -128,13 +120,6 @@ gapminder::gapminder %>% filter(country %in% c("Zambia","Rwanda","Zimbabwe","Uni
 
 ![](images/rep_crisis.PNG)
 
-## Reproducibility Crisis
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7gYIs7uYbMo" frameborder="0" allowfullscreen></iframe>
-
-## Talk "highlights"
-
-![](images/baggerly_1.PNG)
 
 ## Reproducible Research
 
@@ -171,7 +156,7 @@ Fire at CRUK Manchester - April 2017
 <img src="images/backpack.PNG" style="width: 75%; display: block; margin-left: auto; margin-right: auto;"/>
 
 
-## Discussion
+## Discussion topics for live session
 
 - In your breakout groups discuss
     + what kind of research data do you have?
