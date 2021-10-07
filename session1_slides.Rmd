@@ -23,10 +23,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## How you will learn
 
-- Reviewing the pre-recorded videos and completing exercises
-- Live teaching / demonstrating
+- Reviewing the pre-recorded videos and completing the exercises
+- Pre-recordings released 1 week before live teaching
+- Live teaching (zoom) / demonstrating
     + Recorded and available afterwards
 - Exercises in breakout groups
+- Use google classroom to ask questions where possible
 
 ## What you will not learn
 
@@ -474,3 +476,9 @@ Computer doesn’t recognize it!
 - An alternative is the OpenRefine tool
   + uses an Excel-like interface
   + all operations are recorded and reversible
+  
+## Tasks before live teaching
+
+- Go through OpenRefine Exercise
+- Install R and RStudio, and required packages
+
